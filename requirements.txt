@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+
+numpy<1.26
+scipy
+soundfile
+librosa==0.10.1
+
+tensorflow==2.13.1
+tensorflow-hub==0.15.0
+
+pydantic<2.0
