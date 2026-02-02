@@ -11,3 +11,4 @@ tensorflow==2.13.1
 tensorflow-hub==0.15.0
 
 pydantic<2.0
+panda
